@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @walahuseen
 - 👀 I’m interested in Web  
-- I’m currently learning Flutter 
 - 📫 How to reach me walaalatrash@gmail.com
 
 <!---
